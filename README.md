@@ -1,4 +1,4 @@
-#ifunx - Dotfiles
+# ifunx - Dotfiles
 
 ### Hyprland Demo:
 not here yet cuz i forgot to upload
