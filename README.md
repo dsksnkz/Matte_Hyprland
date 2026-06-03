@@ -1,4 +1,4 @@
-# My hyprland
+# Hyprland - ifunx
 - For ifunx Hyprland btw
 - iFunction and Linux
 
